@@ -4,3 +4,9 @@ c:\users\manu\documents\visual studio 2013\Projects\FibonacciCSharp\FibonacciCSh
 c:\users\manu\documents\visual studio 2013\Projects\FibonacciCSharp\FibonacciCSharp\obj\Debug\FibonacciCSharp.csprojResolveAssemblyReference.cache
 c:\users\manu\documents\visual studio 2013\Projects\FibonacciCSharp\FibonacciCSharp\obj\Debug\FibonacciCSharp.exe
 c:\users\manu\documents\visual studio 2013\Projects\FibonacciCSharp\FibonacciCSharp\obj\Debug\FibonacciCSharp.pdb
+C:\Users\Alba\Documents\FibonacciCSharp\FibonacciCSharp\bin\Debug\FibonacciCSharp.exe.config
+C:\Users\Alba\Documents\FibonacciCSharp\FibonacciCSharp\bin\Debug\FibonacciCSharp.exe
+C:\Users\Alba\Documents\FibonacciCSharp\FibonacciCSharp\bin\Debug\FibonacciCSharp.pdb
+C:\Users\Alba\Documents\FibonacciCSharp\FibonacciCSharp\obj\Debug\FibonacciCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Alba\Documents\FibonacciCSharp\FibonacciCSharp\obj\Debug\FibonacciCSharp.exe
+C:\Users\Alba\Documents\FibonacciCSharp\FibonacciCSharp\obj\Debug\FibonacciCSharp.pdb
